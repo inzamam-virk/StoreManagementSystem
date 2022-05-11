@@ -1,0 +1,2 @@
+Apple Fruit 100 100 50
+Banana Fruit 60 50 40
